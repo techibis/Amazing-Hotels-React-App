@@ -1,0 +1,25 @@
+Text per page:
+
+Homepage Text:
+Some of the world's most awe-inspiring hotels will go to great lengths to create the ultimate experience for their guests.  These are their stories.
+Starring:  Giles Coren and Monica Galetti
+
+Singapore Text:
+Marina Bay Sands, Singapore
+The vision governing Singapore's Marina Bay Sands hotel reflects the spirit of a city that excudes confidence, ambition and prosperity.
+
+Ecuador Text:
+Situated in the Andean Cloud Forest of Ecuador, the Mashpi Lodge offers guests understated modernist luxury in the middle of a lush wilderness.
+
+Kenya Text: 
+Kenya's Giraffe Manor combines old-world british charm with, among other things, the pleasure of eating your breakfast in the company of giraffes.
+
+Morocco Text:
+Guests at the Royal Mansour Hotel in Marrakech experience the heights of traditional luxury, to the point of having their own butler.
+
+Newfoundland Text:
+The proprietor of the Fogo Island Inn likes to refer to herself as an innkeeper, offering the kind of hospitality that comes with a human touch.
+
+Sweden Text:
+Icehotel, situated in Sweden's Lapland, offers an otherworldly experience and a form of glacial luxury that is quite unique.
+
